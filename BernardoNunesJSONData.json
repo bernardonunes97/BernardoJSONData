@@ -1,7 +1,17 @@
-
-{ 
-    "contacts" : ["Ana Maria Silva", "Bernardo Nunes", "Fabio França", "Lucas Henrique", "Maria Amelia", "Marina Jacob", "Paulo Ricardo", "Pedro Paulo", "Rangel Cardoso"],
-    
-    "balance" : ["CC": 12973.53, "CP": 35041.34]
+{
+    "contacts":[
+        "Ana Maria Silva",
+        "Bernardo Nunes",
+        "Fabio França",
+        "Lucas Henrique",
+        "Maria Amelia",
+        "Marina Jacob",
+        "Paulo Ricardo",
+        "Pedro Paulo",
+        "Rangel Cardoso"
+    ],
+    "balance":{
+        "CC":12973.53,
+        "CP":35041.34
+    }
 }
-
